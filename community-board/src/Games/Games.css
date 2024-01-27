@@ -21,3 +21,7 @@
   margin-bottom: 30px;
   height: 450px;
 }
+
+button{
+  cursor: pointer;
+}
