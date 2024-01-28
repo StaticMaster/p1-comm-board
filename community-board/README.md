@@ -26,10 +26,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/7d4b646c0504491abaee5e5eb778f342?sid=bfc82b50-106b-4223-a9a7-c9a670547207' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./src/project1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,6 +38,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Mainly doing the props again between different components. I did struggle with that a little bit but everything else was fine.
 
 ## License
 
