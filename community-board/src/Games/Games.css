@@ -24,4 +24,18 @@
 
 button{
   cursor: pointer;
+  border-radius: 20px;
+  border-color: transparent;
+  transition-duration: 0.5s;
+}
+
+button:hover{
+  background-color: grey;
+}
+
+
+@media only screen and (max-width: 600px) {
+ .container {
+    justify-content: center;
+  }
 }
